@@ -10,8 +10,7 @@ Purpose of this analysis is to redo the analysis for the standardized test score
 ### Impact on District Summary
 
 Original Summary
-	Total Schools	Total Students	Total Budget	Average Math Score	Average Reading Score	% Passing Math	% Passing Reading	% Overall Passing
-0	15	39170	24649428	78.985371	81.87784	74.980853	85.805463	65.172326
+![](https://github.com/srfassihi/School_District_Analysis/blob/0272032d71da5dd1316569b3ccd8900babdf9020/Resources/Original%20Analysis/Screen%20Shot%202021-11-21%20at%2010.16.38%20PM.png)
 
 
 ### Impact on School Summary
