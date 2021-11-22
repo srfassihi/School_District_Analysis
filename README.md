@@ -11,19 +11,19 @@ Purpose of this analysis is to redo the analysis for the standardized test score
 
 ![](https://github.com/srfassihi/School_District_Analysis/blob/0272032d71da5dd1316569b3ccd8900babdf9020/Resources/Original%20Analysis/Screen%20Shot%202021-11-21%20at%2010.16.38%20PM.png)
 
-**Original School Summary
+**School Summary**
 
 ![](https://github.com/srfassihi/School_District_Analysis/blob/b7438557ec8ad23be7710a6e491723168e1f301e/Resources/Original%20Analysis/Screen%20Shot%202021-11-21%20at%2010.18.57%20PM.png)
 
-**Top 5 Schools
+**Top 5 Schools**
 
 ![](https://github.com/srfassihi/School_District_Analysis/blob/b7438557ec8ad23be7710a6e491723168e1f301e/Resources/Original%20Analysis/Screen%20Shot%202021-11-21%20at%2010.19.30%20PM.png)
 
-**Bottom 5 Schools
+**Bottom 5 Schools**
 
 ![](https://github.com/srfassihi/School_District_Analysis/blob/b7438557ec8ad23be7710a6e491723168e1f301e/Resources/Original%20Analysis/Screen%20Shot%202021-11-21%20at%2010.19.44%20PM.png)
 
-**Test Scores by Spending Bins (Per Student)
+**Test Scores by Spending Bins (Per Student)**
 
 ![](https://github.com/srfassihi/School_District_Analysis/blob/b7438557ec8ad23be7710a6e491723168e1f301e/Resources/Original%20Analysis/Screen%20Shot%202021-11-21%20at%2010.21.32%20PM.png)
 
@@ -37,7 +37,11 @@ Purpose of this analysis is to redo the analysis for the standardized test score
 
 ## Revised Results
 
-### Impact on District Summary
+NaN counts from Thomas High School
+
+
+**District Summary**
+
 
 ### Impact on School Summary
 
